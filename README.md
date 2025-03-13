@@ -1,3 +1,8 @@
+![](https://komarev.com/ghpvc/?username=edigasreelekha&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+
+
 ![](![WhatsApp Image 2025-03-05 at 14 05 20_89529b9f](https://github.com/user-attachments/assets/74441f57-d17a-499b-87a0-bc566808c538))
 
 # Hi there, I'm Ediga Sreelekha 👋
