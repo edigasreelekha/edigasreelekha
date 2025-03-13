@@ -1,4 +1,4 @@
-![logo](![WhatsApp Image 2025-03-05 at 14 05 20_89529b9f](https://github.com/user-attachments/assets/74441f57-d17a-499b-87a0-bc566808c538))
+![](![WhatsApp Image 2025-03-05 at 14 05 20_89529b9f](https://github.com/user-attachments/assets/74441f57-d17a-499b-87a0-bc566808c538))
 
 # Hi there, I'm Ediga Sreelekha 👋
 ## Welcome to my GitHub!
