@@ -17,8 +17,9 @@
 
   
 ## What you'll Find Here
-- projects : Explore my work in data analysis, data visualization, and statistical analysis including:
--
+- You'll Explore my work in data analysis, data visualization, and statistical analysis etc
+- To explore  my projects check in [Repositeries]().
+
 ## CERTIFICATIONS :
 -  [Python with pandas](https://www.udemy.com/certificate/UC-04c4fb47-bf37-4aba-b8a9-a87f36b1143d/)
 -  [MYSQL](https://www.udemy.com/certificate/UC-6aa29eb3-ae20-404a-8e7b-cd9bb95e9aad/)
