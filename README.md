@@ -18,7 +18,7 @@
   
 ## What you'll Find Here
 - You'll Explore my work in data analysis, data visualization, and statistical analysis etc
-- To explore  my projects check in [Repositeries]().
+- To explore  my projects check in [Repositories](https://github.com/edigasreelekha?tab=repositories).
 
 ## CERTIFICATIONS :
 -  [Python with pandas](https://www.udemy.com/certificate/UC-04c4fb47-bf37-4aba-b8a9-a87f36b1143d/)
