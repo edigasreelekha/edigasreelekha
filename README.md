@@ -13,7 +13,7 @@
 
 
 ## About Me
-   I'm a Data Analyst with Strong foundation with SQL, Power BI, Python, and MS Excel. I'm passionate about leveraging data to solve problems and drive meaningful results. As a recent learner, I'm committed to continuous improvement and actively seeking opportunities to apply my skills and grow within the data analysis field. I'm eager to collaborate and learn from others in the Data Community.
+   I'm a Data Analyst with Strong foundation in MYSQL, Power BI, Python, and MS Excel. I'm passionate about leveraging data to solve problems and drive meaningful results. As a recent learner, I'm committed to continuous improvement and actively seeking opportunities to apply my skills and grow within the data analysis field. I'm eager to collaborate and learn from others in the Data Community.
 
   
 ## What you'll Find Here
