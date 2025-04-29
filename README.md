@@ -20,15 +20,15 @@
 - To explore  my projects check in [Repositories](https://github.com/edigasreelekha?tab=repositories).
   
 ## EXPERIENCE :
- **KULTUREHIRE**  
+ - **KULTUREHIRE**  
    [Project]()
    - 1
    - 2
-**Cognifyz**
+- **Cognifyz**
  [PROJECT]()
   - 2
   - 3
-**CODEVO**
+- **CODEVO**
   [PROJECT]()
   - 3
   - 4
