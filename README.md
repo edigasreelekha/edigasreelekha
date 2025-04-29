@@ -25,7 +25,7 @@
    - 1
    - 2
 - **Cognifyz**
- [PROJECT]()
+ [PROJECT](https://github.com/edigasreelekha/Cognifyz-project)
   - 2
   - 3
 - **CODEVO**
