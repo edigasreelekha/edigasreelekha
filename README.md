@@ -24,6 +24,15 @@
    [Project]()
    - 1
    - 2
+**Cognifyz**
+ [PROJECT]()
+  - 2
+  - 3
+**CODEVO**
+  [PROJECT]()
+  - 3
+  - 4
+
 ## CERTIFICATIONS :
 -  [Python with pandas](https://www.udemy.com/certificate/UC-04c4fb47-bf37-4aba-b8a9-a87f36b1143d/)
 -  [MYSQL](https://www.udemy.com/certificate/UC-6aa29eb3-ae20-404a-8e7b-cd9bb95e9aad/)
