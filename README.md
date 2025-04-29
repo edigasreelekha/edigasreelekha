@@ -21,15 +21,15 @@
   
 ## EXPERIENCE :
  - **KULTUREHIRE**  
-   [Project]()
+   [Project](https://github.com/edigasreelekha/kulturehire-project)
    - 1
    - 2
 - **Cognifyz**
- [PROJECT](https://github.com/edigasreelekha/Cognifyz-project)
+ [Project](https://github.com/edigasreelekha/Cognifyz-project)
   - 2
   - 3
 - **CODEVO**
-  [PROJECT]()
+  [Project]()
   - 3
   - 4
 
