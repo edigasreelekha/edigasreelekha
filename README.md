@@ -13,7 +13,7 @@
 
 
 ## About Me
-   I'm a Data Analyst with Strong foundation in MYSQL, Power BI, Python, and MS Excel. I'm passionate about leveraging data to solve problems and drive meaningful results and Detail-Oriented to turn data into actionable insights.
+   A results-oriented Data Analyst proficient in MySQL, Power BI, Python, and MS Excel. I am driven by a passion for transforming data into actionable insights that contribute to effective problem-solving and strategic decision-making.
   
 ## What you'll Find Here
 - You'll Explore my work in data analysis, data visualization, and statistical analysis etc
