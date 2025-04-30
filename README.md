@@ -19,19 +19,6 @@
 - You'll Explore my work in data analysis, data visualization, and statistical analysis etc
 - To explore  my projects check in [Repositories](https://github.com/edigasreelekha?tab=repositories).
   
-## EXPERIENCE :
- - **KULTUREHIRE**  
-   [Project](https://github.com/edigasreelekha/kulturehire-project)
-   - 1
-   - 2
-- **Cognifyz**
- [Project](https://github.com/edigasreelekha/Cognifyz-project)
-  - 2
-  - 3
-- **CODEVO**
-  [Project](https://github.com/edigasreelekha/Stonemill-Macha-Resturant)
-  - 3
-  - 4
 
 ## CERTIFICATIONS :
 -  [Python with pandas](https://www.udemy.com/certificate/UC-04c4fb47-bf37-4aba-b8a9-a87f36b1143d/)
