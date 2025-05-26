@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=edigasreelekha&label=Profile%20Views&color=0e75b6&style=flat)
-
-
 
 
 ![](![WhatsApp Image 2025-03-05 at 14 05 20_89529b9f](https://github.com/user-attachments/assets/74441f57-d17a-499b-87a0-bc566808c538))
@@ -8,7 +5,7 @@
 # Hi there, I'm Ediga Sreelekha 👋
 ## Welcome to my GitHub!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edigasreelekha357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srilekhagowd8@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23100000.svg?logo=firefox&logoColor=white)](https://srilekhagowd8.wixsite.com/portfformeolio)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232D2D2D.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/srilekhagowd8)
  
 
 
